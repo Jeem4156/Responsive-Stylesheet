@@ -16,8 +16,8 @@ img {
   }
 
   img {
-    max-height: 30vh;
-    width: auto;
+    max-height: 30vh !important;
+    width: auto !important;
     max-width: 100%;
   }
 }
@@ -26,4 +26,3 @@ img {
   div {
     width: 30%;
   }
-}
